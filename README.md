@@ -91,7 +91,7 @@ chmod go-rw output.txt
 chmod go-rw output.txt
 ```
 
-# Week - 7 
+# Week - 7 Oracle Cloud
 
 Creating Oracle Instance occured. And entered to the instance.
 <img width="682" alt="Screenshot 2023-06-05 at 23 46 54" src="https://github.com/Risimon/OperatingSystems/assets/44129331/d1832584-a769-4df2-a818-e83adb8a2011">
