@@ -1,3 +1,4 @@
+#!/bin/bash
 mkdir Videos/Watched
 ls -R Videos
 cd Documents/
