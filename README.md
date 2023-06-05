@@ -144,5 +144,5 @@ unmounting.
 lsof
 ```
 ## Autor
-Aitmatov Adilet;\
-Student id: 12230114;
+Ri Yevgeniy;\
+Student id: 12204557;
