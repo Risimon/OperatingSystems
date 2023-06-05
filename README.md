@@ -5,7 +5,7 @@
 Use this git command to clone project:
 
 ```bash
-[git clone https://github.com/AditelJunior/OsLab.git](https://github.com/Risimon/OperatingSystems/tree/master)
+[git clone https://github.com/Risimon/OperatingSystems/tree/master
 ```
 
 # Week - 2 Files & Navigation
